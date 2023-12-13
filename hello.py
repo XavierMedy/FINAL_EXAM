@@ -2,3 +2,5 @@
 
 print("Today is finals!")
 
+print('and next week is Project Presentation!')
+
